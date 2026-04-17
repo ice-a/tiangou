@@ -83,10 +83,10 @@ xcopy /E /I tiangou-quotes %USERPROFILE%\.openclaw\skills\tiangou-quotes
 ```bash
 # 安装到当前项目（在 git 仓库根目录执行）
 mkdir -p .claude/skills
-git clone https://github.com/YOUR_USERNAME/tiangou-quotes .claude/skills/tiangou-quotes
+git clone https://github.com/ice-a/tiangou-quotes .claude/skills/tiangou-quotes
 
 # 或全局安装
-git clone https://github.com/YOUR_USERNAME/tiangou-quotes ~/.claude/skills/tiangou-quotes
+git clone https://github.com/ice-a/tiangou-quotes ~/.claude/skills/tiangou-quotes
 ```
 
 ### 方式三：Claude / Gemini / ChatGPT 等平台
@@ -164,11 +164,11 @@ git clone https://github.com/YOUR_USERNAME/tiangou-quotes ~/.claude/skills/tiang
 
 ## ⭐ Star History
 
-<a href="https://www.star-history.com/#YOUR_USERNAME/tiangou-quotes&date">
+<a href="https://www.star-history.com/#ice-a/tiangou-quotes&date">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=YOUR_USERNAME/tiangou-quotes&type=date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=YOUR_USERNAME/tiangou-quotes&type=date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=YOUR_USERNAME/tiangou-quotes&type=date" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=ice-a/tiangou-quotes&type=date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=ice-a/tiangou-quotes&type=date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=ice-a/tiangou-quotes&type=date" />
  </picture>
 </a>
 

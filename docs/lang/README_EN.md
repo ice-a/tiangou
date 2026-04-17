@@ -83,10 +83,10 @@ Restart your OpenClaw session and you're good to go.
 ```bash
 # Install to current project (run at git repo root)
 mkdir -p .claude/skills
-git clone https://github.com/YOUR_USERNAME/tiangou-quotes .claude/skills/tiangou-quotes
+git clone https://github.com/ice-a/tiangou-quotes .claude/skills/tiangou-quotes
 
 # Or install globally (available in all projects)
-git clone https://github.com/YOUR_USERNAME/tiangou-quotes ~/.claude/skills/tiangou-quotes
+git clone https://github.com/ice-a/tiangou-quotes ~/.claude/skills/tiangou-quotes
 ```
 
 ### Option 3: Claude / Gemini / ChatGPT
@@ -168,11 +168,11 @@ PRs welcome! If you have great simp quotes, love phrases, or toxic wisdom, check
 
 ## ⭐ Star History
 
-<a href="https://www.star-history.com/#YOUR_USERNAME/tiangou-quotes&date">
+<a href="https://www.star-history.com/#ice-a/tiangou-quotes&date">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=YOUR_USERNAME/tiangou-quotes&type=date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=YOUR_USERNAME/tiangou-quotes&type=date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=YOUR_USERNAME/tiangou-quotes&type=date" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=ice-a/tiangou-quotes&type=date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=ice-a/tiangou-quotes&type=date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=ice-a/tiangou-quotes&type=date" />
  </picture>
 </a>
 

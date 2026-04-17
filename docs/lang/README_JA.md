@@ -83,10 +83,10 @@ OpenClaw セッションを再起動するだけ。
 ```bash
 # 現在のプロジェクトにインストール（gitリポジトリルートで実行）
 mkdir -p .claude/skills
-git clone https://github.com/YOUR_USERNAME/tiangou-quotes .claude/skills/tiangou-quotes
+git clone https://github.com/ice-a/tiangou-quotes .claude/skills/tiangou-quotes
 
 # またはグローバルインストール
-git clone https://github.com/YOUR_USERNAME/tiangou-quotes ~/.claude/skills/tiangou-quotes
+git clone https://github.com/ice-a/tiangou-quotes ~/.claude/skills/tiangou-quotes
 ```
 
 ### 方法3：Claude / Gemini / ChatGPT
@@ -165,11 +165,11 @@ PR大歓迎！良いシンプ語録、ラブフレーズ、毒スープがあれ
 
 ## ⭐ Star History
 
-<a href="https://www.star-history.com/#YOUR_USERNAME/tiangou-quotes&date">
+<a href="https://www.star-history.com/#ice-a/tiangou-quotes&date">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=YOUR_USERNAME/tiangou-quotes&type=date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=YOUR_USERNAME/tiangou-quotes&type=date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=YOUR_USERNAME/tiangou-quotes&type=date" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=ice-a/tiangou-quotes&type=date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=ice-a/tiangou-quotes&type=date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=ice-a/tiangou-quotes&type=date" />
  </picture>
 </a>
 
