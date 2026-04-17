@@ -1,9 +1,0 @@
-# AI Skills Distillation Project
-# No external dependencies required
-# Uses only Python standard library
-
-# 如果需要额外功能，可以在此添加依赖
-# If additional functionality is needed, add dependencies here
-# Example:
-# requests>=2.25.1
-# numpy>=1.21.0

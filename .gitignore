@@ -1,59 +1,21 @@
-# Python
-__pycache__/
-*.py[cod]
-*$py.class
-*.so
-.Python
-build/
-develop-eggs/
-dist/
-downloads/
-eggs/
-.eggs/
-lib/
-lib64/
-parts/
-sdist/
-var/
-wheels/
-*.egg-info/
-.installed.cfg
-*.egg
-MANIFEST
-
-# Virtual environments
-venv/
-env/
-ENV/
-
-# IDE
+# IDE / Editor
 .vscode/
 .idea/
 *.swp
 *.swo
+*~
 
 # OS
 .DS_Store
-.DS_Store?
-._*
-.Spotlight-V100
-.Trashes
-ehthumbs.db
 Thumbs.db
+Desktop.ini
 
-# Logs
-*.log
+# WorkBuddy / AI workspace
+.workbuddy/
 
-# Temporary files
-*.tmp
-*.temp
+# Build artifacts
+*.zip
 
-# Local configuration
-.claude/
-settings.local.json
-
-# Data files (optional - uncomment if you don't want to include source data)
-# *.txt
-# 情话.txt
-# 情话宝典.txt
-# 舔狗语录.txt
+# Raw data (not needed in repo)
+情话.txt
+舔狗语录.txt
